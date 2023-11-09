@@ -18,11 +18,27 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~
+#Developed by: Dharshiniyaa KS
+#RegisterNumber:23014039
+num1 =input()
+num2 =input()
+temp =num1
+num1 =num2
+num2 =temp
+print("Swapped values are:", num1, num2)
+~~~
+## output:
+![output](/swap_output.png)
+
 
 
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
+
+
+
 
 
 
