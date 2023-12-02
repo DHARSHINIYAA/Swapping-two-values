@@ -29,7 +29,7 @@ num2 =temp
 print("Swapped values are:", num1, num2)
 ~~~
 ## output:
-![output](/swap_output.png)
+![output](https://github.com/DHARSHINIYAA/Swapping-two-values/assets/149560172/59c0a8e1-4793-4b73-b3ce-a1bcab13eedb)
 
 
 
